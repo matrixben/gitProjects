@@ -1,1 +1,2 @@
-print("Welcome to the real world.")
+text = 'python'
+print("Welcome to the {} world.".format(text))
